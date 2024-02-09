@@ -1,10 +1,10 @@
-# [Izake/Arsalan]
+# Izake/Arsalan/124k3
 
 ## Android Developer | Java | Kotlin | Godot (2D, 3D) Game Developer | 
 
 ### Hey there! how it's going? 👋
 
-Well, I'm [Arsalan], some call me [Izake] or even [124k3]. I'm your average Android developer with expertise in Java, Kotlin, and game development using Godot. With a strong foundation in mobile application development and a serious passion for creating engaging indie games.
+Well, I'm #Arsalan, some call me #Izake or even #124k3. I'm your average Android developer with expertise in Java, Kotlin, and game development using Godot. With a strong foundation in mobile application development and a serious passion for creating engaging indie games.
 I believe that's the best introduction I can come up with (It's really weird to praise oneself when eventually the other person can see your nuts and bolts i.e what you are made of xd)
 
 ### 🚀 Skills
@@ -25,7 +25,7 @@ Brief overview of the project, showcasing your range of skills. Include any chal
 
 ### 📚 Education
 
-- Bachelor of Science in Computer Science, [Islamia College of Science and Commerce], (let's keep it between you and me, that it was all self-taught)
+- Bachelor of Science in Computer Science, #Islamia College of Science and Commerce, (let's keep it between you and me, that it was all self-taught)
 
 ### 🌱 Currently Learning
 I am currently learning Linux, I want to create some opensource Linux scripts/software (man that would be awesome)
