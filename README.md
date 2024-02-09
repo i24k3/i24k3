@@ -9,7 +9,7 @@ I believe that's the best introduction I can come up with (It's really weird to 
 
 ### Skills
 
-- **Languages:** Java, Kotlin, C++, C, Python,
+- **Languages:** Java, Kotlin, C++, C, Python.
 - **Frameworks & Tools:** Android Studio, Godot Engine, Vim, 
 - **Game Development:** Godot Scripting (GD script), Game Design, 2D Game Development
 - **Version Control:** Git, GitHub
@@ -20,12 +20,13 @@ I believe that's the best introduction I can come up with (It's really weird to 
 - Bachelor of Science in Computer Science, Islamia College of Science and Commerce, (let's keep it between you and me, that it was all self-taught)
 
 ### Currently Learning
-I am currently learning Linux, I want to create some opensource Linux scripts/software (man that would be awesome)
+- I am currently learning Linux, and I want to create some opensource Linux scripts/software (man that would be awesome)
 and in the meantime, I am learning whatever I can learn (kinda, jack of all trades <3)
 
 ### Let's Connect
 
-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsalan-khan-25663124a/) 
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsalan-khan-25663124a/)
+  
 - [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@124k3_?si=CidvmrLzY3vluGX8)
 
 - [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/124k3/)
@@ -42,14 +43,14 @@ and in the meantime, I am learning whatever I can learn (kinda, jack of all trad
 
 ### Contact Me
 
-Feel free to reach out if you have any questions, or collaboration opportunities, or just want to chat about Android or game development. You can reach me at [Email](akha3743@gmail.com) or direct message me via [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919796926552)
+- Feel free to reach out if you have any questions, or collaboration opportunities, or just want to chat about Android or game development. You can reach me at [Email](akha3743@gmail.com) or direct message me via [WhatsApp](https://wa.me/919796926552)
 
 ### Fun Fact
 
-In my free time, I enjoy Watching anime, reading Manga, doing stupid stuff...
+- In my free time, I enjoy watching [Anime](https://en.wikipedia.org/wiki/Anime), reading [Manga](https://en.wikipedia.org/wiki/Manga), doing stupid stuff...
 
 ### Work in Progress
 
-I'm currently working on [-----]. Stay tuned for updates!
+- I'm currently working on [-----]. Stay tuned for updates!
 
 Thank you for visiting my GitHub profile. Let's build something amazing together! 🚀
