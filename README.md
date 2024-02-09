@@ -15,14 +15,6 @@ I believe that's the best introduction I can come up with (It's really weird to 
 - **Version Control:** Git, GitHub
 - **Problem Solving:** Analytical thinking, Debugging, Optimization, code reusability, and feature adaptation.
 
-### Projects
-
-#### [Project Name 1](Link to Project 1)
-Short description of the project and its significance. Highlight any key features or technologies used.
-
-#### [Project Name 2](Link to Project 2)
-Brief overview of the project, showcasing your range of skills. Include any challenges faced and how you overcame them.
-
 ### Education
 
 - Bachelor of Science in Computer Science, Islamia College of Science and Commerce, (let's keep it between you and me, that it was all self-taught)
