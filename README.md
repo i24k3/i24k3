@@ -7,7 +7,7 @@
 Well, I'm Arsalan, some call me Izake or even 124k3. I'm your average Android developer with expertise in Java, Kotlin, and game development using Godot. With a strong foundation in mobile application development and a serious passion for creating engaging indie games.
 I believe that's the best introduction I can come up with (It's really weird to praise oneself when eventually the other person can see your nuts and bolts i.e what you are made of xd)
 
-### - Skills
+### Skills
 
 - **Languages:** Java, Kotlin, C++, C, Python,
 - **Frameworks & Tools:** Android Studio, Godot Engine, Vim, 
@@ -15,7 +15,7 @@ I believe that's the best introduction I can come up with (It's really weird to 
 - **Version Control:** Git, GitHub
 - **Problem Solving:** Analytical thinking, Debugging, Optimization, code reusability, and feature adaptation.
 
-### -> Projects
+### Projects
 
 #### [Project Name 1](Link to Project 1)
 Short description of the project and its significance. Highlight any key features or technologies used.
@@ -23,15 +23,15 @@ Short description of the project and its significance. Highlight any key feature
 #### [Project Name 2](Link to Project 2)
 Brief overview of the project, showcasing your range of skills. Include any challenges faced and how you overcame them.
 
-### -> Education
+### Education
 
 - Bachelor of Science in Computer Science, Islamia College of Science and Commerce, (let's keep it between you and me, that it was all self-taught)
 
-### -> Currently Learning
+### Currently Learning
 I am currently learning Linux, I want to create some opensource Linux scripts/software (man that would be awesome)
 and in the meantime, I am learning whatever I can learn (kinda, jack of all trades <3)
 
-### -> Let's Connect
+### Let's Connect
 
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsalan-khan-25663124a/) 
 - [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@124k3_?si=CidvmrLzY3vluGX8)
@@ -48,17 +48,15 @@ and in the meantime, I am learning whatever I can learn (kinda, jack of all trad
 
 - ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 
-
-
-### -> Contact Me
+### Contact Me
 
 Feel free to reach out if you have any questions, or collaboration opportunities, or just want to chat about Android or game development. You can reach me at [Email](akha3743@gmail.com) or direct message me via [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919796926552)
 
-### -> Fun Fact
+### Fun Fact
 
 In my free time, I enjoy Watching anime, reading Manga, doing stupid stuff...
 
-### -> Work in Progress
+### Work in Progress
 
 I'm currently working on [-----]. Stay tuned for updates!
 
