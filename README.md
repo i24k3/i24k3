@@ -23,25 +23,25 @@ Hey there, I'm ***Arsalan***, some call me **Izake** or even **124k3**. I'm your
 
 - **`Bsc. IT`** : Bachelor's of Science, Information Technology.
 
-From [**ICSC**](https://en.wikipedia.org/wiki/Islamia_College_of_Science_and_Commerce,_Srinagar), *let's keep it between you and me, that it was all **self-taught**.* They didn't taught ~~Shit~~, anything good.
+From [**ICSC**](https://en.wikipedia.org/wiki/Islamia_College_of_Science_and_Commerce,_Srinagar,target="_blank"), *let's keep it between you and me, that it was all **self-taught**.* They didn't taught ~~Shit~~, anything good.
 
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsalan-khan-25663124a/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@124k3_?si=CidvmrLzY3vluGX8)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/124k3/)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/124k3)
-[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/arsalan-544/)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/izakefortster?country.x=IN&locale.x=en_GB)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsalan-khan-25663124a/,target="_blank")
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@124k3_?si=CidvmrLzY3vluGX8,target="_blank")
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/124k3/,target="_blank")
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/124k3,target="_blank")
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/arsalan-544/,target="_blank")
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/izakefortster?country.x=IN&locale.x=en_GB,target="_blank")
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white,target="_blank")
+![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white,target="_blank")
 
 >As They say, *who you know is more important that what you know.*
 
 ## Contact Me
 
- Feel-free to reach out if you have any **Ideas/Opinion**, or **Collaboration Opportunities**. You can reach me at [**Email**](akha3743@gmail.com) or direct message me via [**WhatsApp**](https://wa.me/919796926552).
+ Feel-free to reach out if you have any **Ideas/Opinion**, or **Collaboration Opportunities**. You can reach me at [**Email**](akha3743@gmail.com) or direct message me via [**WhatsApp**](https://wa.me/919796926552,target="_blank").
 
  >*The more you shear your **contact info**, the Less Amount of people will contact you.*
 
