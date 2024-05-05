@@ -23,7 +23,7 @@ Hey there, I'm ***Arsalan***, some call me **Izake** or even **124k3**. I'm your
 
 - **`Bsc. IT`** : Bachelor's of Science, Information Technology.
 
-From Islamia College of Science and Commerce, *let's keep it between you and me, that it was all **self-taught**.* They didn't taught ~~Shit~~.
+From [**ICSC**](https://en.wikipedia.org/wiki/Islamia_College_of_Science_and_Commerce,_Srinagar), *let's keep it between you and me, that it was all **self-taught**.* They didn't taught ~~Shit~~, anything good.
 
 
 ## Let's Connect
@@ -41,15 +41,16 @@ From Islamia College of Science and Commerce, *let's keep it between you and me,
 
 ## Contact Me
 
- Feel-free to reach out if you have any **Ideas/Opinion**, or **Collaboration Opportunities**. You can reach me at [Email](akha3743@gmail.com) or direct message me via [WhatsApp](https://wa.me/919796926552).
+ Feel-free to reach out if you have any **Ideas/Opinion**, or **Collaboration Opportunities**. You can reach me at [**Email**](akha3743@gmail.com) or direct message me via [**WhatsApp**](https://wa.me/919796926552).
 
  >*The more you shear your **contact info**, the Less Amount of people will contact you.*
 
 ### Fun Fact
 
-- In my free time, I enjoy watching [Anime](https://en.wikipedia.org/wiki/Anime), reading [Manga](https://en.wikipedia.org/wiki/Manga), going through some Book's and doing stupid stuff...
+- In my free time, I enjoy watching [**Anime**](https://en.wikipedia.org/wiki/Anime), reading [**Manga**](https://en.wikipedia.org/wiki/Manga), going through some Book's and doing stupid stuff...
 
 >*My Lawyer has advised me **not to reveal**, what kind of stupid stuff I do.*
 
 
-# Thank you for Visiting My  GitHub profile. *Let's build Something  Amazing*.
+# Thank you for Visiting My  GitHub profile. 
+## *Let's build Something  Amazing*.
