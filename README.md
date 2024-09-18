@@ -1,6 +1,6 @@
 <h1 align="center"> Hi I'm Arsalan (i24k3) </h1>
 
-Hey there, I'm ***Arsalan***, some call me **Izake** or even **124k3**. I'm your  Skilled *`Android and Javv Developer`* with Interest for Mobile application development and a serious passion for creating engaging Java Applications.
+Hey there, I'm ***Arsalan***, some call me **Izake** or even **i24k3**. I'm your  Skilled *`Android and Javv Developer`* with Interest for Mobile application development and a serious passion for creating engaging Java Applications.
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=124k3&label=Profile%20views&color=0e75b6&style=flat" alt="124k3" /> </p>  
