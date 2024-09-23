@@ -3,8 +3,8 @@
 Hey there, I'm ***Arsalan***, some call me **Izake** or even **i24k3**. I'm your  Skilled *`Android and Javv Developer`* with Interest for Mobile application development and a serious passion for creating engaging Java Applications.
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=124k3&label=Profile%20views&color=0e75b6&style=flat" alt="124k3" /> </p>  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=124k3" alt="124k3" /></a> </p>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=i24k3&label=Profile%20views&color=0e75b6&style=flat" alt="i24k3" /> </p>  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i24k3" alt="i24k3" /></a> </p>  
    
 
 ## Languages And Tools
