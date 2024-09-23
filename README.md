@@ -18,9 +18,9 @@ Hey there, I'm ***Arsalan***, some call me **Izake** or even **i24k3**. I'm your
 
 >From [**ICSC**](https://en.wikipedia.org/wiki/Islamia_College_of_Science_and_Commerce,_Srinagar), *let's keep it between you and me, that it was all **self-taught**.* They didn't taught ~~Shit~~, anything good.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=124k3&show_icons=true&locale=en&layout=compact" alt="124k3" /></p>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i24k3&show_icons=true&locale=en&layout=compact" alt="i24k3" /></p>  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=124k3&show_icons=true&locale=en" alt="124k3" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i24k3&show_icons=true&locale=en" alt="i24k3" /></p>
 
 ## Let's Connect
 As They say, *who you know is more important that what you know.*
