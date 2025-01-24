@@ -17,7 +17,7 @@ Hey there, I'm ***Arsalan***, some call me **Izake** or even **i24k3**. I'm your
 
   <!-- Second image -->
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img style="width: 100%; height: 200px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api?username=i24k3&show_icons=true&locale=en" alt="i24k3" />
+    <!-- <img style="width: 100%; height: 200px; object-fit: contain;" src="https://github-readme-stats.vercel.app/api?username=i24k3&show_icons=true&locale=en" alt="i24k3" /> -->
   </div>
 </div>
 
