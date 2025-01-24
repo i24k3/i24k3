@@ -14,7 +14,7 @@ Hey there, I'm ***Arsalan***, some call me **Izake** or even **i24k3**. I'm your
   </div>
 
 
-  <div style="flex: 1; min-width: 300px; margin: auto; ">
+  <div width="100%" style="flex: 1; min-width: 300px; margin: auto; ">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i24k3&show_icons=true&locale=en" alt="i24k3" /></p>
 
   </div>
