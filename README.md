@@ -8,23 +8,13 @@ Hey there, I'm ***Arsalan***, some call me **Izake** or even **i24k3**. I'm your
 ---
 <div style="display: flex; flex-wrap: wrap; gap: 1px;">
 
-  <div style="flex: 1; min-width: 300px; align-items:center;">
-<p><img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=i24k3&show_icons=true&locale=en&layout=compact" alt="i24k3" /></p>  
-
+  <div style="flex: 1; min-width: ; align-items:center;">
+    <p><img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=i24k3&show_icons=true&locale=en&layout=compact" alt="i24k3" /></p>  
   </div>
 
-
-  <div style="flex: 1; min-width: 300px; margin: auto; ">
-<p>&nbsp;<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=i24k3&show_icons=true&locale=en" alt="i24k3" /></p>
-
+  <div style="flex: 1; min-width: ; margin: auto; display: flex; justify-content: center; align-items: center;">
+    <p><img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=i24k3&show_icons=true&locale=en" alt="i24k3" /></p>
   </div>
 </div>
 
----
-
-## Education
-
-**Bsc. IT**: Bachelor's of Science, Information Technology  
-*From [**ICSC**](https://en.wikipedia.org/wiki/Islamia_College_of_Science_and_Commerce,_Srinagar)*  
-> Let's keep it between you and me, that it was all **self-taught**. They didn't teach ~~Shit~~, anything worth talking about.
 ---
