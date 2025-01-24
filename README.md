@@ -45,13 +45,18 @@ Hey there, I'm ***Arsalan***, some call me **Izake** or even **i24k3**. I'm your
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i24k3" alt="i24k3" /></a> </p>  
 
 ---
-<div style="display: flex; flex-wrap: wrap; gap: 1px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; border: 2px solid white; padding: 10px;">
 
-  <div style="flex: 1; min-width: 300px; display: flex; justify-content: center; align-items: center;">
-    <p><img width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=i24k3&show_icons=true&locale=en&layout=compact" alt="i24k3" /></p>  
+  <!-- First Div containing both images -->
+  <div style="display: flex; justify-content: center; align-items: center; border: 2px solid white; padding: 10px;">
+    <div style="flex: 1; display: flex; justify-content: center; align-items: center; margin-right: 10px;">
+      <img width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=i24k3&show_icons=true&locale=en&layout=compact" alt="i24k3" />
+    </div>
+    <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+      <img width="300" align="center" src="https://github-readme-stats.vercel.app/api?username=i24k3&show_icons=true&locale=en" alt="i24k3" />
+    </div>
   </div>
 
-  <div style="flex: 1; min-width: 300px; display: flex; justify-content: center; align-items: center;">
-    <p><img width="300" align="center" src="https://github-readme-stats.vercel.app/api?username=i24k3&show_icons=true&locale=en" alt="i24k3" /></p>
-  </div>
+  <!-- Empty second div -->
+  <div style="flex: 1; min-width: 300px; border: 2px solid white; padding: 10px;"></div>
 </div>
